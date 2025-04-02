@@ -1,0 +1,7 @@
+Nome de usuário: rihanna
+Senha: x
+UID: 1001
+GID principal: 1002
+GECOS: uid=1001(rihanna) gid=1002(estudantes) groups=1002(estudantes)
+Diretório inicial: /home/rihanna
+Shell: /bin/bash
